@@ -1,1 +1,1 @@
-Hello! This is my first mini project for my portfolio. This project involves analyzing a dataset containing layoffs from around the world to identify and analyze the pattern of what's going on. I used MySQL for data cleaning and manipulation and Power BI for data visualization.
+Hello! This is my first mini project for my portfolio. This project involves analyzing a dataset containing layoffs from around the world to identify and analyze the pattern. I used MySQL for data cleaning and manipulation and Power BI for data visualization.
